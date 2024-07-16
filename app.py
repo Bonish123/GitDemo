@@ -13,4 +13,7 @@ class Mathematics:
     def divide(x, y):
         return x / y
 
+    def percentage(x):
+        return x/100
+
 
